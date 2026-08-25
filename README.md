@@ -4,7 +4,7 @@
   <h1>👋 Hey, I'M NWAMINI EMMANUEL O!</h1>
 
   <a href="https://git.io/typing-svg"><img
-  src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=008AFA&background=193549&center=true&vCenter=true&width=500&lines=Full-stack+Web+Developer;Backend+Engineer;Nodejs+Developer"
+  src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=008AFA&background=193549&center=true&vCenter=true&width=500&lines=Full-stack+Web+Developer;Backend+Engineer;Nodejs+Developer;React+Native+%26+Expo+Developer"
   alt="Typing SVG" /></a>
 </div>
 
@@ -14,7 +14,7 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there👋!;My+name+is+Nwamini+Emmanuel!;Motivated,Passionate,Fast-learner!;Fullstack+Software-Engineer.)](https://git.io/typing-svg)..>
 
 ## 🚀 About Me
-Hey there! I'm Emmanuel, a Freelancer Software Engineer, Crypto-Trader and A Teacher!
+Hey there! I'm Emmanuel, a Freelancer Software Engineer, Crypto-Trader and A Teacher! I build web and mobile apps — from Next.js web platforms to React Native/Expo mobile apps.
 
 ## 🛠️ Skills & Tools
 <!-- Add your skills and tools as badges/icons -->
@@ -26,6 +26,8 @@ Hey there! I'm Emmanuel, a Freelancer Software Engineer, Crypto-Trader and A Tea
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js)
+![](https://img.shields.io/badge/Mobile-React_Native-informational?style=flat&logo=react)
+![](https://img.shields.io/badge/Mobile-Expo-informational?style=flat&logo=expo)
 ![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js)
 ![](https://img.shields.io/badge/Backend-Express.js-informational?style=flat&logo=express)
 ![](https://img.shields.io/badge/Desktop-Electron.js-informational?style=flat&logo=electron)
@@ -43,7 +45,6 @@ Hey there! I'm Emmanuel, a Freelancer Software Engineer, Crypto-Trader and A Tea
 
 ## 🌱 I'm Currently Learning
 <!-- Add the the technologies or skills you're currently learning -->
-<!-- React Native: [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 <!-- AngularJS: [![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angularjs.org/)
 - Vue.js: [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 - Python: ![](https://img.shields.io/badge/Python-informational?style=flat&color=informational&logo=python&logoColor=white)
