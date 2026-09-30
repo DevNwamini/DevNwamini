@@ -72,5 +72,5 @@ Hey there! I'm Emmanuel, a Freelancer Software Engineer, Crypto-Trader and A Tea
 
 ## 🏆 Achievements
 <!-- Add your GitHub achievements using GitHub Readme Streak Stats -->
-![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevNwamini&theme=radical)
+
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=YOUNGEMMY5956&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
